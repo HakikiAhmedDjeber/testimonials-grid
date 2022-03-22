@@ -21,6 +21,8 @@ ul {
 }
 /* end global ruless */
 .contianer {
+  width: 1000px;
+  height:700px;
   padding: 50px;
   display: grid;
   gap: 25px;

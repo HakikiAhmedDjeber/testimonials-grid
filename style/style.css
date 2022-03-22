@@ -28,7 +28,7 @@ ul {
   gap: 25px;
   color: white;
   width: 100vw;
-  height: 700vh;
+  height: 700px;
   margin: 0;
   grid-template-areas:
     "dani dani jona kira"
